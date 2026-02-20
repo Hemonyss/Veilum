@@ -9,9 +9,9 @@
 
 ## Description
 
-### Veilum: Your message is your business. Stay connected without central restrictions.
+**Veilum: Your message is your business. Stay connected without central restrictions.**
 
-**Veilum is a next-generation messenger built on independently operated servers designed to ensure maximum anonymity and digital freedom. We believe private and unrestricted communication is a fundamental right.**
+Veilum is a next-generation messenger built on independently operated servers designed to ensure maximum anonymity and digital freedom. We believe private and unrestricted communication is a fundamental right.
 
 ### How do we ensure this?
 - Independent server infrastructure: Veilum does not rely on a single corporate data center. Servers are run by volunteers around the world, creating a decentralized and resilient network.
