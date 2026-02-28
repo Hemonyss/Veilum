@@ -34,5 +34,9 @@ Veilum is a next-generation messenger built on independently operated servers de
 - Transparency: Open-source development ensures trust through verification.
 
 ## Tech stack
-- Frontend: QT6 QML
-- Backend: Golang
+
+### Frontend
+- QT6 QML
+  
+### Backend
+- Golang
