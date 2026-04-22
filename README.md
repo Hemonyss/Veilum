@@ -16,7 +16,7 @@ Veilum is a next-generation messenger built on independently operated servers de
 ### How do we ensure this?
 - Independent server infrastructure: Veilum does not rely on a single corporate data center. Servers are run by volunteers around the world, creating a decentralized and resilient network.
 - Open-source server software: The server code is publicly available, allowing anyone to verify, deploy, and operate their own node. It is lightweight and optimized to run even on low-end hardware.
-- Advanced end-to-end encryption: Veilum uses AES-256 with high-speed OCB mode to keep your messages private while maintaining fast communication.
+- Advanced end-to-end encryption: Veilum uses XChaCha20-Poly1305 to keep your messages private while maintaining fast communication.
 - Full functionality without compromise: Messaging, high-quality voice and video calls, file sharing, and group chats — all built with privacy and resilience at the core.
 
 
